@@ -1,2 +1,4 @@
 这是我的第一个git
 为了学习branch的知识
+this is a test for myself
+&
