@@ -2,3 +2,4 @@
 为了学习branch的知识
 this is a test for myself
 &
+Creating a new branch is quick
